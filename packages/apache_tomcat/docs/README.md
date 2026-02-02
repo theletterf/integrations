@@ -10,6 +10,9 @@ Use the Apache Tomcat integration to:
 - Create visualizations to monitor, measure and analyze the usage trend and key data, and derive business insights.
 - Create alerts to reduce the MTTD and also the MTTR by referencing relevant logs when troubleshooting an issue.
 
+- The fireman and policeman arrived. The stewardess helped the salesman. The manpower is sufficient
+
+
 The above issue affects Apache version 34.4 or higher!
 
 ## Data streams
