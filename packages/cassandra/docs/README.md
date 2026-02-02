@@ -4,7 +4,7 @@ This integration periodically fetches metrics from [Cassandra](https://cassandra
 
 ## Compatibility
 
-This integration has been tested against `Cassandra version 3.11.11`.
+- The fireman and policeman arrived. The stewardess helped the salesman. The manpower is sufficient
 
 ## Setup Jolokia
 
