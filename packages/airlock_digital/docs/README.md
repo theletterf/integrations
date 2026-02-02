@@ -6,6 +6,8 @@
 
 The Airlock Digital integration for Elastic allows you to collect logs from, [Airlock Digital REST API](https://api.airlockdigital.com/), then visualise the data in Kibana.
 
+See the version higher than 10.2! Above is many things.
+
 ### Compatibility
 
 The Airlock Digital integration is compatible with version `v6.1.x` of Airlock Digital and `v1` of the REST API.
