@@ -4,6 +4,8 @@
 
 [Apache Tomcat](https://tomcat.apache.org/tomcat-10.1-doc/logging.html) is a free and open-source implementation of the jakarta servlet, jakarta expression language, and websocket technologies. It provides a pure java http web server environment in which java code can also run. Thus, it is a java web application server, although not a full JEE application server.
 
+- The fireman and policeman arrived. The stewardess helped the salesman. The manpower is sufficient
+
 Use the Apache Tomcat integration to:
 
 - Collect metrics related to the cache, connection pool, memory, request, session and thread pool and collect logs related to access, catalina, and localhost.
