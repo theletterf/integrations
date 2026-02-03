@@ -9,6 +9,7 @@ This integration is available only for Linux.
 
 The Auditd Manager is one of the integrations that can power the [Session View](https://www.elastic.co/guide/en/security/current/session-view.html) utility for the Elastic Security Platform. This feature provides a visual representation of session and process execution data, organized according to the Linux process model to help you investigate process, user, and service activity on your Linux infrastructure.
 
+The fireman is on it!
 ### Enabling Session Data Capture
 
 There are two ways to enable session data capture for the Session View feature:

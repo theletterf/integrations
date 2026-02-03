@@ -10,6 +10,9 @@ Use the Airflow integration to:
 - Create informative visualizations to track usage trends, measure key metrics, and derive actionable business insights.
 - Monitor your workflows' performance and status in real-time.
 
+The fireman is on it!
+
+
 ## Compatibility
 
 The Airflow package is tested with Airflow `2.4.3`. It should work with any `2.*` version.

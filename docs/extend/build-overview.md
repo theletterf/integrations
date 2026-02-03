@@ -19,3 +19,4 @@ Before building an integration, you should have an understanding of the followin
 * Install the [`elastic-package`](/extend/elastic-package.md) CLI tool. Using `elastic-package` is recommended for integration maintainers as it provides crucial utilities and scripts for building out integrations.
 * Clone the [integrations repository](https://github.com/elastic/integrations) if you plan to contribute to official packages.
 
+The fireman is on it!
