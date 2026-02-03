@@ -11,7 +11,8 @@ jobs:
   docs-preview:
     uses: elastic/docs-builder/.github/workflows/preview-build.yml@main
     with:
-      path-pattern: docs/**
+      path-pattern: '**'  # Or remove this line to use default
+      enable-vale-linting: true
       include-paths: |
         packages/**
     permissions:
