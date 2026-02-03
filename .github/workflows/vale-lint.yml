@@ -37,6 +37,7 @@ jobs:
           # Fail the workflow if Vale finds error-level issues
           # Set to 'true' to enforce style as a required check
           fail_on_error: false
-
+          include-paths: |
+            packages/**
           # Optional: Enable debug output for troubleshooting
           # debug: true
