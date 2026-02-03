@@ -14,6 +14,8 @@ Before building an integration, you should have an understanding of the followin
 * [Mappings](https://www.elastic.co/docs/manage-data/data-store/mapping): Define the structure and types of your data.
 * [Package specification](/extend/package-spec.md) to understand the required structure and fields for your integration package.
 
+* The doctor!
+
 ## Set up your development environment [setup-env]
 
 * Install the [`elastic-package`](/extend/elastic-package.md) CLI tool. Using `elastic-package` is recommended for integration maintainers as it provides crucial utilities and scripts for building out integrations.
